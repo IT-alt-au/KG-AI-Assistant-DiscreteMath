@@ -1,0 +1,38 @@
+RangeIndex: 178 entries, 0 to 177
+Data columns (total 14 columns):
+Class label                     178 non-null int64
+Alcohol                         178 non-null float64
+Malic acid                      178 non-null float64
+Ash                             178 non-null float64
+Alcalinity of ash               178 non-null float64
+Magnesium                       178 non-null int64
+Total phenols                   178 non-null float64
+Flavanoids                      178 non-null float64
+Nonflavanoid phenols            178 non-null float64
+Proanthocyanins                 178 non-null float64
+Color intensity                 178 non-null float64
+Hue                             178 non-null float64
+OD280/OD315 of diluted wines    178 non-null float64
+Proline                         178 non-null int64
+dtypes: float64(11), int64(3)
+memory usage: 19.5 KB
+
+
+重要性： [0.10658906 0.02539968 0.01391619 0.03203319 0.02207807 0.0607176
+ 0.15094795 0.01464516 0.02235112 0.18248262 0.07824279 0.1319868
+ 0.15860977]
+
+
+ 1) Color intensity                0.182483
+ 2) Proline                        0.158610
+ 3) Flavanoids                     0.150948
+ 4) OD280/OD315 of diluted wines   0.131987
+ 5) Alcohol                        0.106589
+ 6) Hue                            0.078243
+ 7) Total phenols                  0.060718
+ 8) Alcalinity of ash              0.032033
+ 9) Malic acid                     0.025400
+10) Proanthocyanins                0.022351
+11) Magnesium                      0.022078
+12) Nonflavanoid phenols           0.014645
+13) Ash                            0.013916
